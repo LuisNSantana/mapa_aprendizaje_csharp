@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{56EE22B5-DC65-4125-80BC-ACC3101C38BA}|Default">
+  <MonoDevelop.Ide.ItemProperties.terceraMision PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.quintaMision PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.primeraMision PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.cuartaMision PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.mapaDeAprendizaje PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="cuartaMision/Program.cs">
+    <Files>
+      <File FileName="primeraMision/Program.cs" Line="67" Column="1" />
+      <File FileName="quintaMision/Program.cs" />
+      <File FileName="mapaDeAprendizaje/elektra.cs" Line="6" Column="6" />
+      <File FileName="cuartaMision/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="mapaDeAprendizaje" expanded="True">
+            <Node name="cuartaMision" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="mapaDeAprendizaje" expanded="True" />
+            <Node name="primeraMision" expanded="True">
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

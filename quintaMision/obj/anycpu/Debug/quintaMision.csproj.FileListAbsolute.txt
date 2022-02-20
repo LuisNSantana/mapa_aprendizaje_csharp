@@ -1,0 +1,4 @@
+/Users/luisnayib/Projects/mapaDeAprendizaje/quintaMision/bin/Debug/quintaMision.exe
+/Users/luisnayib/Projects/mapaDeAprendizaje/quintaMision/bin/Debug/quintaMision.pdb
+/Users/luisnayib/Projects/mapaDeAprendizaje/quintaMision/obj/anycpu/Debug/quintaMision.exe
+/Users/luisnayib/Projects/mapaDeAprendizaje/quintaMision/obj/anycpu/Debug/quintaMision.pdb

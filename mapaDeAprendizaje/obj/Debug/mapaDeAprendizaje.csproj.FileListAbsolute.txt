@@ -1,0 +1,5 @@
+/Users/luisnayib/Projects/mapaDeAprendizaje/mapaDeAprendizaje/bin/Debug/mapaDeAprendizaje.exe
+/Users/luisnayib/Projects/mapaDeAprendizaje/mapaDeAprendizaje/bin/Debug/mapaDeAprendizaje.pdb
+/Users/luisnayib/Projects/mapaDeAprendizaje/mapaDeAprendizaje/obj/Debug/mapaDeAprendizaje.csprojAssemblyReference.cache
+/Users/luisnayib/Projects/mapaDeAprendizaje/mapaDeAprendizaje/obj/Debug/mapaDeAprendizaje.exe
+/Users/luisnayib/Projects/mapaDeAprendizaje/mapaDeAprendizaje/obj/Debug/mapaDeAprendizaje.pdb

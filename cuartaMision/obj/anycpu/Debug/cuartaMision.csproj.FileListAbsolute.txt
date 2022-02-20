@@ -1,0 +1,4 @@
+/Users/luisnayib/Projects/mapaDeAprendizaje/cuartaMision/bin/Debug/cuartaMision.exe
+/Users/luisnayib/Projects/mapaDeAprendizaje/cuartaMision/bin/Debug/cuartaMision.pdb
+/Users/luisnayib/Projects/mapaDeAprendizaje/cuartaMision/obj/anycpu/Debug/cuartaMision.exe
+/Users/luisnayib/Projects/mapaDeAprendizaje/cuartaMision/obj/anycpu/Debug/cuartaMision.pdb

@@ -1,0 +1,4 @@
+/Users/luisnayib/Projects/mapaDeAprendizaje/primeraMision/bin/Debug/primeraMision.exe
+/Users/luisnayib/Projects/mapaDeAprendizaje/primeraMision/bin/Debug/primeraMision.pdb
+/Users/luisnayib/Projects/mapaDeAprendizaje/primeraMision/obj/anycpu/Debug/primeraMision.exe
+/Users/luisnayib/Projects/mapaDeAprendizaje/primeraMision/obj/anycpu/Debug/primeraMision.pdb
